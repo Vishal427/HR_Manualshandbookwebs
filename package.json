@@ -1,0 +1,56 @@
+{
+  "name": "hr-manuals-handbook",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.3",
+    "@mui/icons-material": "^5.15.2",
+    "@mui/lab": "^7.0.0-beta.12",
+    "@mui/material": "^7.1.0",
+    "framer-motion": "^10.16.16",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.1",
+    "react-scripts": "5.0.1",
+    "react-swipeable": "^7.0.1",
+    "styled-components": "^6.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "A modern, interactive web application for managing and displaying HR manuals and handbooks. Built with React.js, Node.js, and MongoDB.",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Encardio-GeoHub/HR_Manualshandbookweb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Encardio-GeoHub/HR_Manualshandbookweb/issues"
+  },
+  "homepage": "https://github.com/Encardio-GeoHub/HR_Manualshandbookweb#readme"
+}
